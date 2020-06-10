@@ -113,7 +113,7 @@ var start_game = (msg) => {
                 current_round: 1,
                 current_game_wins: 0,
                 current_game_losses: 0,
-                first_to: 1,
+                first_to: 3,
                 initial_message: null,
                 last_update: undefined,
                 choice_last_round:"     none      ",
